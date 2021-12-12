@@ -1,0 +1,5 @@
+com\cg\SpringBatchXmlToDatabaseApplication.class
+com\cg\configuration\BatchConfiguration.class
+com\cg\configuration\BatchConfiguration$EmployeeItemPreparedStmSetter.class
+com\cg\model\Employee.class
+com\cg\configuration\BatchConfiguration$1.class
