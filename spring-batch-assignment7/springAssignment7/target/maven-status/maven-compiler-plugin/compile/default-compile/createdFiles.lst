@@ -1,0 +1,5 @@
+com\example\springbatchassignment7\config\BatchConfig.class
+com\example\springbatchassignment7\SpringBatchAssignment7Application.class
+com\example\springbatchassignment7\batch\Writer.class
+com\example\springbatchassignment7\batch\Processor.class
+com\example\springbatchassignment7\model\Student.class
